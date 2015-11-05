@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Windy.Common.Libraries", "Windy.Common.Libraries\Windy.Common.Libraries.csproj", "{ACFA8AF8-4689-46C5-B4CF-4ABD89D81F78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Windy.Common.DbConfig", "Windy.Common.DbConfig\Windy.Common.DbConfig.csproj", "{EDB67D3B-027A-4EEB-A9AC-F8F73D263A68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACFA8AF8-4689-46C5-B4CF-4ABD89D81F78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACFA8AF8-4689-46C5-B4CF-4ABD89D81F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACFA8AF8-4689-46C5-B4CF-4ABD89D81F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACFA8AF8-4689-46C5-B4CF-4ABD89D81F78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDB67D3B-027A-4EEB-A9AC-F8F73D263A68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDB67D3B-027A-4EEB-A9AC-F8F73D263A68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDB67D3B-027A-4EEB-A9AC-F8F73D263A68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDB67D3B-027A-4EEB-A9AC-F8F73D263A68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
